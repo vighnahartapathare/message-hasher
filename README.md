@@ -13,6 +13,22 @@
 
 ---
 
+## Screenshot
+
+Initial Window:
+
+![Initial_window](Hash_Window_(1).png)
+
+Hash a Message Window:
+
+![Hash_message_window](Hash_Window_(2).png)
+
+Match a Hash Window:
+
+![Match_hash_window](Hash_Window_(3).png)
+
+---
+
 ## Installation Guide
 
 ### 1. Clone the Repository
