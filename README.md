@@ -13,19 +13,19 @@
 
 ---
 
-## Screenshot
+## Screenshots
 
 Initial Window:
 
-![Initial_window](Hash_Window_(1).png)
+![Initial_window](Hash_Window_1.png)
 
 Hash a Message Window:
 
-![Hash_message_window](Hash_Window_(2).png)
+![Hash_message_window](Hash_Window_2.png)
 
 Match a Hash Window:
 
-![Match_hash_window](Hash_Window_(3).png)
+![Match_hash_window](Hash_Window_3.png)
 
 ---
 
