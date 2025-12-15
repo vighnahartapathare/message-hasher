@@ -11,7 +11,6 @@
 - Copy generated hashes to clipboard
 - Clean and modern GUI using `ttkbootstrap` dark theme
 
----
 
 ## Screenshots
 
@@ -26,13 +25,3 @@ Hash a Message Window:
 Match a Hash Window:
 
 ![Match_hash_window](Hash_Window_3.png)
-
----
-
-## Installation Guide
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/modern-hashing-app.git
-cd modern-hashing-app
